@@ -33,5 +33,5 @@ Fct preprocess prelucreaza toate imaginile de antrenament si avem un vector de v
  Fct evaluate evalueaza daca vectorul de feature-uri al fiecarei imagini inmultit cu w prezice continutul unei imagini. daca w*feature<=0 este pisica, altfel nu este pisica.
 
 Task 4
- AM folosit functiile de la task 3, iar in functia de learn am aplicat algoritmul din enuntul temeei. De asemenea, am modificat functia evaluate pt a prelucra intreaga matrice X.
+ Am folosit functiile de la task 3, iar in functia de learn am aplicat algoritmul din enuntul temei. De asemenea, am modificat functia evaluate pt a prelucra intreaga matrice X.
 
